@@ -1,0 +1,55 @@
+= Edric Teo - Project Portfolio
+:site-section: AboutUs
+:imagesDir: ../images
+:stylesDir: ../stylesheets
+
+== PROJECT: modsUNI
+
+---
+
+== Overview
+
+modsUni is a desktop timetable management application created by students for students. It incorporates a simple GUI with majority of its user interactions occurring in its in-built CLI.
+
+== Summary of contributions
+
+* *Major enhancement*:
+** What it does:
+** Justification:
+** Highlights:
+** Credits:
+
+* *Minor enhancement*:
+
+* *Code contributed*:
+
+* *Other contributions*:
+
+** Project management:
+
+** Documentation:
+
+** Community:
+
+** Tools:
+
+== Contributions to the User Guide
+
+
+|===
+|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._
+|===
+
+include::../UserGuide.adoc[tag=undoredo]
+
+include::../UserGuide.adoc[tag=dataencryption]
+
+== Contributions to the Developer Guide
+
+|===
+|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._
+|===
+
+include::../DeveloperGuide.adoc[tag=undoredo]
+
+include::../DeveloperGuide.adoc[tag=dataencryption]
