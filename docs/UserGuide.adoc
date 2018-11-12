@@ -155,7 +155,7 @@ the filtered database module list.
 
 // tag::saveuser[]
 [[save]]
-
+[discrete]
 === Saving user data: `save`
 
 The save command stores the current user's information locally to a file. The saved file is used during the login process to restore a user's information. +

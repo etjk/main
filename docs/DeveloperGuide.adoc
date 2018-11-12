@@ -813,6 +813,7 @@ It provides methods to save the current user's attributes as well as to load a f
 ** `StorageManager#saveUser(…​)` — Save the user's data into the specified file path.
 ** `StorageManager#readUser(…​)` — Reads the user's data from the specified file path.
 
+[discrete]
 ===== Implementation of the save feature
 
 The `save` mechanism of modsUni is facilitated by `SaveCommand` class and is event-driven.
@@ -889,6 +890,7 @@ _Figure 5. Activity Diagram for the save command_
 
 ==== Design Considerations
 
+[discrete]
 ===== Aspect: Data to save
 
 * **Alternative 1 (current choice):** Save every attribute of a `User`.
@@ -908,7 +910,6 @@ Advanced Encryption Standard (AES) is the algorithm used for encryption.
 
 This section will describe in details the current implementation and the design considerations of the data encryption & decryption feature.
 
----
 ==== Current Implementation
 The data security feature is facilitated by `DataSecurityUtil` class. +
 `DataSecurityUtil` implements the following operations:

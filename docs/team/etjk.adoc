@@ -1,11 +1,14 @@
 = Edric Teo - Project Portfolio
+:sectnums:
+:sectnumlevels: 4
 :site-section: AboutUs
 :imagesDir: ../images
 :stylesDir: ../stylesheets
 
+[discrete]
 == PROJECT: modsUni
 
-== 1. Overview
+== Overview
 
 This portfolio documents my contribution to the project - *modsUni*.
 modsUni is an open-sourced project that was collaborated with 4 other coursemates from the module CS2103 (Introduction to Software Engineering).
@@ -18,7 +21,7 @@ Currently, we are targeting undergraduates from the National University of Singa
 
 My contributions include the implementation of saving a user's information securely into a local file and restoring the user's information into the application using the saved file.
 
-== 2. Summary of Contributions
+== Summary of Contributions
 
 * *Major enhancement*: This enhancement added functionality to save and load a user's (admin or student) data.
 
@@ -53,7 +56,7 @@ My contributions include the implementation of saving a user's information secur
 ** Tool: Integrated RepoSense to the project (Pull request https://github.com/CS2103-AY1819S1-W17-2/main/pull/217[#217]).
 
 
-== 3. Contributions to the User Guide
+== Contributions to the User Guide
 
 |===
 |_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._
@@ -61,7 +64,7 @@ My contributions include the implementation of saving a user's information secur
 
 include::../UserGuide.adoc[tag=saveuser]
 
-== 4. Contributions to the Developer Guide
+== Contributions to the Developer Guide
 
 |===
 |_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._
